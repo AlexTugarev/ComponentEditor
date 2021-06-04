@@ -29,3 +29,5 @@ npm run dev
 5. Connect to the web server - http://localhost:8080
 6. Edit your files locally - components are in the ```components``` subfloder
 7. When ready - click the 'Preview' button to sync local files with our server and open your **private** circuito.io preview window
+
+🎉
